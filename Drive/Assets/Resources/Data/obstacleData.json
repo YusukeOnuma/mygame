@@ -1,0 +1,95 @@
+{
+    "items": [
+        {
+            "obstacleId": 1,
+            "speed": 7,
+            "orbitType": 0,
+            "scoreOrTime": 0,
+            "point": 100
+        },
+        {
+            "obstacleId": 10,
+            "speed": 4,
+            "orbitType": 0,
+            "scoreOrTime": 0,
+            "point": 30
+        },
+        {
+            "obstacleId": 11,
+            "speed": 4,
+            "orbitType": 0,
+            "scoreOrTime": 0,
+            "point": 50
+        },
+        {
+            "obstacleId": 20,
+            "speed": 2,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 5
+        },
+        {
+            "obstacleId": 21,
+            "speed": 2,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 7
+        },
+        {
+            "obstacleId": 22,
+            "speed": 3,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 7
+        },
+        {
+            "obstacleId": 23,
+            "speed": 3,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 10
+        },
+        {
+            "obstacleId": 24,
+            "speed": 3,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 10
+        },
+        {
+            "obstacleId": 25,
+            "speed": 3,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 10
+        },
+        {
+            "obstacleId": 26,
+            "speed": 5,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 15
+        },
+        {
+            "obstacleId": 27,
+            "speed": 5,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 15
+        },
+        {
+            "obstacleId": 28,
+            "speed": 5,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 20
+        },
+        {
+            "obstacleId": 29,
+            "speed": 5,
+            "orbitType": 1,
+            "scoreOrTime": 1,
+            "point": 20
+        }
+    ]
+}

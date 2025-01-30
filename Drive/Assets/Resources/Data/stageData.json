@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "stageId": 1,
+            "stageTime": 60,
+            "leafTime": 5,
+            "leafNum": 20,
+            "leafSpeed": 5,
+            "leafPoint": 20,
+            "obstacleIds":"1",
+			"obstacleRates":"0",
+            "obstacleTime": 7,
+            "obstacleNum": 0,
+            "supportIds": "1",
+			"supportRates":"100",
+            "supportTime": 7,
+            "supportNum": 5
+        },
+        {
+            "stageId": 2,
+            "stageTime": 60,
+            "leafTime": 5,
+            "leafNum": 20,
+            "leafSpeed": 5,
+            "leafPoint": 20,
+            "obstacleIds":"20,21",
+			"obstacleRates":"10,10",
+            "obstacleTime": 7,
+            "obstacleNum": 1,
+            "supportIds": "1,2",
+			"supportRates":"50,50",
+            "supportTime": 7,
+            "supportNum": 2
+        },
+        {
+            "stageId": 3,
+            "stageTime": 60,
+            "leafTime": 5,
+            "leafNum": 20,
+            "leafSpeed": 6,
+            "leafPoint": 30,
+            "obstacleIds":"1,10",
+			"obstacleRates":"50,50",
+            "obstacleTime": 5,
+            "obstacleNum": 2,
+            "supportIds": "1",
+			"supportRates":"100",
+            "supportTime": 7,
+            "supportNum": 5
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "supportId": 1,
+            "speed": 7,
+            "statusUpType": "1",
+            "point": 10
+        },
+        {
+            "supportId": 2,
+            "speed": 7,
+            "statusUpType": "2",
+            "point": 10
+        },
+        {
+            "supportId": 3,
+            "speed": 7,
+            "statusUpType": "3",
+            "point": 10
+        },
+        {
+            "supportId": 4,
+            "speed": 7,
+            "statusUpType": "4",
+            "point": 5
+        }
+    ]
+}

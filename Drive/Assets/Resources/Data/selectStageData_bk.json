@@ -1,0 +1,88 @@
+{
+    "items": [
+        {
+            "stageId": 1,
+            "clearScore1":300,
+            "clearScore2":450,
+            "clearScore3":600,
+			"unlockCoin":0
+        },
+        {
+            "stageId": 2,
+            "clearScore1":400,
+            "clearScore2":550,
+            "clearScore3":700,
+			"unlockCoin":200
+        },
+        {
+            "stageId": 3,
+            "clearScore1":500,
+            "clearScore2":700,
+            "clearScore3":950,
+			"unlockCoin":400
+        },
+        {
+            "stageId": 4,
+            "clearScore1":600,
+            "clearScore2":800,
+            "clearScore3":1000,
+			"unlockCoin":600
+        },
+        {
+            "stageId": 5,
+            "clearScore1":750,
+            "clearScore2":1100,
+            "clearScore3":1600,
+			"unlockCoin":800
+        },
+        {
+            "stageId": 6,
+            "clearScore1":900,
+            "clearScore2":1300,
+            "clearScore3":1800,
+			"unlockCoin":900
+        },
+        {
+            "stageId": 7,
+            "clearScore1":1000,
+            "clearScore2":1500,
+            "clearScore3":2100,
+			"unlockCoin":1000
+        },
+        {
+            "stageId": 8,
+            "clearScore1":1200,
+            "clearScore2":1700,
+            "clearScore3":1900,
+			"unlockCoin":1100
+        },
+        {
+            "stageId": 9,
+            "clearScore1":1500,
+            "clearScore2":1900,
+            "clearScore3":2400,
+			"unlockCoin":1200
+        },
+        {
+            "stageId": 10,
+            "clearScore1":100,
+            "clearScore2":300,
+            "clearScore3":500,
+			"unlockCoin":1300
+        },
+		{
+            "stageId": 11,
+            "clearScore1":1900,
+            "clearScore2":2300,
+            "clearScore3":3200,
+			"unlockCoin":1400
+        },
+		{
+            "stageId": 12,
+            "clearScore1":2100,
+            "clearScore2":2500,
+            "clearScore3":3300,
+			"unlockCoin":1500
+        }
+    ]
+}

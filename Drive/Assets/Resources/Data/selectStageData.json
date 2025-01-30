@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "stageId": 1,
+            "clearScore1":30,
+            "clearScore2":40,
+            "clearScore3":60,
+			"unlockCoin":0
+        },
+        {
+            "stageId": 2,
+            "clearScore1":400,
+            "clearScore2":550,
+            "clearScore3":700,
+			"unlockCoin":0
+        },
+        {
+            "stageId": 3,
+            "clearScore1":500,
+            "clearScore2":700,
+            "clearScore3":950,
+			"unlockCoin":0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "items": [
+
+		{
+            "weaponId": 1,
+            "name": "Car1",
+            "description": "",
+            "price": "0",
+            "durability": "100",
+            "special": "0",
+            "movingSpeed": "120",
+			"atkSpeed":"150",
+            "coinMultiplier": "1.0",
+			"satrPoints": "2"
+
+        },
+        {
+            "weaponId": 2,
+            "name": "Car2",
+            "description": "",
+            "price": "500",
+            "durability": "120",
+            "special": "0",
+            "movingSpeed": "60",
+			"atkSpeed":"90",
+            "coinMultiplier": "1.5",
+			"satrPoints": "4"
+        },
+        {
+            "weaponId": 3,
+            "name": "Car3",
+            "description": "",
+            "price": "2000",
+            "durability": "200",
+            "special": "0",
+            "movingSpeed": "60",
+			"atkSpeed":"90",
+            "coinMultiplier": "2.0",
+			"satrPoints": "6"
+        },
+        {
+            "weaponId": 4,
+            "name": "Car4",
+            "description": "",
+            "price": "5000",
+            "durability": "500",
+            "special": "1",
+            "movingSpeed": "60",
+			"atkSpeed":"130",
+            "coinMultiplier": "3.0",
+			"satrPoints": "8"
+        }
+    ]
+}

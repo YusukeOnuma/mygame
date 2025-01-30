@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\pj\\02_mypj\\Drive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\store\\storescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\store\\storescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|c:\\src\\pj\\02_mypj\\drive\\assets\\scripts\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\splash\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\splash\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\game\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\game\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|c:\\src\\pj\\02_mypj\\drive\\assets\\scripts\\common\\debugmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\debugmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\common\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|c:\\src\\pj\\02_mypj\\drive\\assets\\scripts\\common\\data\\cardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\data\\cardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|c:\\src\\pj\\02_mypj\\drive\\assets\\scripts\\common\\data\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\data\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\common\\rewardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\rewardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\game\\gimmick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gimmick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\game\\csvdownroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\csvdownroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\game\\roadanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\roadanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|C:\\src\\pj\\02_mypj\\Drive\\assets\\scripts\\popup\\timebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177C378E-005F-D869-DA48-519997DD13AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\popup\\timebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DebugManager.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\DebugManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\DebugManager.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\DebugManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\DebugManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:25:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:03:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\Data\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Data\\DataManager.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\Data\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Data\\DataManager.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAHIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:03:07.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarData.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\Data\\CarData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Data\\CarData.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\Data\\CarData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Data\\CarData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:58:50.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\Data\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Data\\PlayerData.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\Data\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Data\\PlayerData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:51:51.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreScene.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Store\\StoreScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Store\\StoreScene.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Store\\StoreScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Store\\StoreScene.cs",
+              "ViewState": "AQIAAEsBAAAAAAAAAAAMwB4BAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:49:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gimmick.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\Gimmick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Gimmick.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\Gimmick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Gimmick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:13:03.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Splash\\Splash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Splash\\Splash.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Splash\\Splash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Splash\\Splash.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvyEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:05:17.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoadAnimation.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\RoadAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\RoadAnimation.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\RoadAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\RoadAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:17:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\PlayerController.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:16:05.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameController.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GameController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwCsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:26:42.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CSVDownroad.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\CSVDownroad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\CSVDownroad.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Game\\CSVDownroad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\CSVDownroad.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:18:53.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimeBonus.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Popup\\TimeBonus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Popup\\TimeBonus.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Popup\\TimeBonus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Popup\\TimeBonus.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T09:08:25.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RewardManager.cs",
+              "DocumentMoniker": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\RewardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\RewardManager.cs",
+              "ToolTip": "C:\\src\\pj\\02_mypj\\Drive\\Assets\\Scripts\\Common\\RewardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\RewardManager.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAawDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:34:34.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

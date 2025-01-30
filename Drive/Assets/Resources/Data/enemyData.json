@@ -1,0 +1,19 @@
+{
+    "items": [
+		{
+            "enemyId": 1,
+            "name": "zombie",
+            "damage": 10,
+            "speed": 25,
+			"hitpoint":2
+        },		
+		{
+            "enemyId": 2,
+            "name": "zombie",
+            "damage": 10,
+            "speed": 50,
+			"hitpoint":5
+        }
+
+    ]
+}

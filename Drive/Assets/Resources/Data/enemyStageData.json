@@ -1,0 +1,77 @@
+{
+    "items": [
+
+		{
+            "stageId": 1,
+            "enemyCount": 0,
+			"enemyIds":"",
+			"enemyRates":"0"
+        },
+		{
+            "stageId": 2,
+            "enemyCount": 0,
+			"enemyIds":"",
+			"enemyRates":"0"
+        },
+		{
+            "stageId": 3,
+            "enemyCount": 0,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 4,
+            "enemyCount": 1,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 5,
+            "enemyCount": 1,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 6,
+            "enemyCount": 30,
+			"enemyIds":"1,2",
+			"enemyRates":"50,50"
+        },
+		{
+            "stageId": 7,
+            "enemyCount": 2,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 8,
+            "enemyCount": 3,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 9,
+            "enemyCount": 3,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 10,
+            "enemyCount": 4,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 11,
+            "enemyCount": 4,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        },
+		{
+            "stageId": 12,
+            "enemyCount": 5,
+			"enemyIds":"1",
+			"enemyRates":"100"
+        }
+    ]
+}
